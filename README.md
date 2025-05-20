@@ -51,3 +51,10 @@
 
 
 ## OUTPUT:
+
+![kelvin](https://github.com/user-attachments/assets/816a5e17-2a89-4ef8-bb5d-ff1a84207705)
+
+
+## RESULT:
+To edit an image using an image editing software is created successfully
+
